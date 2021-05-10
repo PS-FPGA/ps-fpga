@@ -1,0 +1,12 @@
+[submodule "rtl/uriscv"]
+	path = rtl/uriscv
+	url = https://github.com/ultraembedded/core_uriscv.git
+[submodule "rtl/l2_cache"]
+	path = rtl/l2_cache
+	url = https://github.com/ultraembedded/core_axi_cache.git
+[submodule "rtl/gpu"]
+	path = rtl/gpu
+	url = https://github.com/Laxer3a/PS-GPU.git
+[submodule "rtl/gte"]
+	path = rtl/gte
+	url = https://github.com/Laxer3a/PS-GTE.git
